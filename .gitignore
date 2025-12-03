@@ -1,0 +1,29 @@
+# Ignorar entorno virtual
+env
+venv
+.venv
+
+# Ignorar pycache
+__pycache__
+
+# Ignorar archivos temporales
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de configuración
+*.cfg
+*.ini
+*.env
+
+# Ignorar archivos de depedencias
+requirements.txt
+
+# Ignorar archivos de ejecución
+*.exe
+*.app
+*.jar
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
